@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/l/font?kit=-F6pfjtqLzI2JPCgQBnw7HFQaioq12U-xq5MTjrgTXhzUle-MCMW7l3n1UTMtb-Ryo_PW5ihYCLuh1zkNb7phjrqzHBB6qgqFx4wAVJEnMMR-6CmQ5Y4o75Lzjz10n9bzfFq4AraovofkIQh85VMdypsPQ&skey=f8a75aa314b1396f&v=v28) format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=-F62fjtqLzI2JPCgQBnw7HFowxpRkxM83QmVljrhS3hzXle-NyMW8V3n0ETMtr-R-o_PWpiiTyLuhFzkMr7pkzrq8XBB96gqFB4xPVJEncUX0KC4cZYTsr5Bwjzz3nxw5_Bp5grbjfUsl4Qh7pJWbg&skey=72472b0eb8793570&v=v28) format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/l/font?kit=-F6pfjtqLzI2JPCgQBnw7HFQei0q12U-xq5MTjrgTXhzUle-MCMW7l3n1UTMtb-Ryo_PW5ihYCLuh1zkNb7phjrqzHBB6qgqFx4wAVJEnMMR-6CmQ5Y4o75Lzjz10n9bzfFq4AraovofkIQh85VMdypsPQ&skey=b1468649b9c42538&v=v28) format('woff2');
+}
